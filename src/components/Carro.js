@@ -3,7 +3,7 @@ import BubbleAlert from './BubbleAlert'
 
 const styles = {
     carro: {
-       backGroundColor: '#359A2C', 
+       backgroundColor: '#359A2C', 
        color: '#fff',
        border: 'none',
        padding: '15px',

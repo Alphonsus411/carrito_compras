@@ -2,9 +2,9 @@ import { Component } from "react";
 
 const styles = {
     bubbleAlert: {
-       backGroundColor: '#E9725A', 
+       backgroundColor: '#E9725A', 
        borderRadius: '15px',
-       color: 'fff',
+       color: '#fff',
        padding: '2px 10px',
        fontSize: '0.9rem',
        width: '20px',
